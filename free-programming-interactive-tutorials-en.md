@@ -55,7 +55,7 @@
 * [4Clojure - Koans](https://www.4clojure.com)
 * [Clojure Koans](http://clojurekoans.com)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
-* [Try Clojure](http://tryclj.com)
+* [Try Clojure](http://www.tryclj.com)
 
 
 ### CoffeeScript
@@ -84,7 +84,7 @@
 ### Go
 
 * [Go Koans](https://github.com/cdarwin/go-koans)
-* [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
+* [The Go Tutorial](http://tour.golang.org)
 
 
 ### Haskell
@@ -94,31 +94,34 @@
 
 ### HTML / CSS
 
-* [Learn by doing beginner projects](https://dash.generalassemb.ly/projects)
-* [Learn HTML & CSS interactively](http://www.codecademy.com/tracks/web)
-* [Prototyping a professional website](http://www.codecademy.com/skills/prototyping)
+* [CSS Diner](http://flukeout.github.io)
+* [Flexbox Defense](http://flexboxdefense.com)
+* [Flexbox Froggy](http://flexboxfroggy.com)
+* [Learn by doing beginner projects](https://dash.generalassemb.ly)
+* [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
+* [Prototyping a professional website](https://www.codecademy.com/skills/make-a-website)
 
 
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
-* [Learneroo Java tutorial](http://www.learneroo.com/modules/11)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
+* [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
 ### JavaScript
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
-* [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
+* [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
-* [Javascript Foundations](http://gymnasium.aquent.com/catalog/course/104)
-* [Javascript interactive tutorial on CodeCademy](http://www.codecademy.com/tracks/javascript)
+* [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)
-* [jQuery Building Blocks](http://gymnasium.aquent.com/catalog/course/102)
-* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
 
@@ -126,6 +129,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 
 
 ### Lisp
@@ -146,7 +150,6 @@
 ### NoSQL
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
-* [Try MongoDB](http://try.mongodb.org)
 * [Try Redis](http://try.redis.io)
 
 
@@ -162,13 +165,13 @@
 
 ### PHP
 
-* [CodeCademy PHP](http://www.codecademy.com/tracks/php)
+* [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 
 
 ### Python
 
-* [Codecademy Python course](http://www.codecademy.com/tracks/python)
+* [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
@@ -179,28 +182,26 @@
 * [Try R](http://tryr.codeschool.com)
 
 
-### Racket
-
-* [Try Racket](http://try-racket.org)
-
-
 ### Ruby
 
-* [CodeCademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Codeschool Ruby paths](https://www.codeschool.com/paths/ruby)
+* [Hackety Hack](http://www.hackety.com)
 * [Ruby Koans](http://www.rubykoans.com)
-* [RubyMonk - Interactive Ruby tutorials](http://rubymonk.com)
+* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 * [The Odin Project](http://www.theodinproject.com)
 * [Try Ruby](http://tryruby.org)
 
 
 ### Scala
 
+* [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
 * [Scala Tour](http://www.scala-tour.com)
 
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 

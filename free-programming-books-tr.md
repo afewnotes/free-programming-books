@@ -71,24 +71,24 @@
 
 ### Go
 
-* [Go Turu](http://tur.a.golang.org.tr)
+* [Go Turu](https://go-tour-turkish.appspot.com/welcome/1)
 
 
 ### Html
 
-* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 * [Html'e Giriş](http://www.htmldersleri.org)
+* [Html'e Yolculuk](https://github.com/paufsc/journey-to-html)
 
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios/)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java
 
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 * [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
+* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
 
 ### JavaScript
@@ -139,7 +139,7 @@
 
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md)
 * [Ruby](https://www.ruby-lang.org/tr/)
-* [Ruby 101](https://www.gitbook.io/book/vigo/ruby-101)
+* [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html)
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart/)
 
@@ -152,8 +152,3 @@
 ### Swift
 
 * [Swift Türkiye](http://www.swiftturkiye.org)
-
-
-### Windows Phone
-
-* [Windows Phone'a Uygulama Yazmak](https://mehmetakifsonmez.files.wordpress.com/2013/12/windows-phone-a-uygulama-yazmak.pdf) (PDF)
